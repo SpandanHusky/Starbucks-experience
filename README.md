@@ -21,3 +21,12 @@ This project helped me practice:
 
 📸 Preview 
 
+<p align="center">
+  <img src="Starbucks_shots/Image-4.jpeg" width="45%" />
+  <img src="Starbucks_shots/Image-3.jpeg" width="45%" />
+</p>
+
+<p align="center">
+  <img src="Starbucks_shots/Image-2.jpeg" width="45%" />
+  <img src="Starbucks_shots/Image-1.jpeg" width="45%" />
+</p>
